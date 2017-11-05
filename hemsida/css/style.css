@@ -1,0 +1,54 @@
+
+h1{
+  color:red;
+  font-size: 99px;
+  background-color: white;
+  /*text-decoration: underline;*/
+  text-align: center;
+}
+
+
+p{
+  color:red;
+  font-size: 30px;
+  background-color: white;
+}
+
+body{
+  background-color: white;
+  font-family: '';
+}
+
+img{
+  width:580px;
+  /*display: block;
+  margin: auto;*/
+  float:right;
+
+  border-radius: 10%;
+}
+
+h1:hover{
+  color:red;
+  text-decoration: underline;
+  font-size: 99px;
+}
+
+/*p:hover{
+  color:pink;
+}*/
+
+h2{
+  color:red;
+  font-size: 70px;
+  text-decoration: underline;
+}
+
+.hej {
+  color:red;
+
+}
+
+.sport {
+  
+}
